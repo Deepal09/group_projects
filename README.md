@@ -13,4 +13,4 @@
 
 ## Other Subtitle
 
-THis is a line. 
+This is a line. 
